@@ -38,3 +38,6 @@ RETURNING id, createdon;
 
 --DELETE FROM product;
 
+
+--EMPLOYEE TABLE
+
